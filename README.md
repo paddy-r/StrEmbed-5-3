@@ -1,5 +1,7 @@
 # StrEmbed-5-3
 
+[![name](https://zenodo.org/badge/274413366.svg)](http://doi.org/10.5281/zenodo.4555836)
+
 Version 5-3 of Structure Embedding
 
 Part of the Design Configuration Spaces (DCS) project hosted by the University of Leeds
